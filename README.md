@@ -1,6 +1,6 @@
 # Training Management React Application
 
-This project is a frontend-only Training Management system built using React functional components. It includes Subject, Course, Batch, and Student management modules with validations, localStorage persistence, and responsive UI.
+This is a frontend-only Training Management application built using React functional components. It manages Subjects, Courses, Batches, and Students with proper validations, localStorage persistence, and a simple dashboard. The focus is on React fundamentals, state handling, and UI clarity
 
 ## Features
 - Subject creation with duplicate prevention
